@@ -1,0 +1,44 @@
+
+body {
+    
+    margin:100px;
+    
+    font-family:'Poppins', sans-serif;
+}
+
+.custom-info {}
+
+.custom-info .input-box {
+    display: flex;
+    align-items: center;
+}
+
+.custom-info .input-box label {
+    min-width: 120px;
+    
+}
+
+.custom-info .input-box label {
+   padding: 5px;
+   margin-bottom: 15px;
+   width: 300px
+    
+}
+
+.custom-info .input-box textarea {
+ width: 300px;
+    padding: 5px;
+}
+
+
+legend {
+font-size: 25px;
+font-weight: 600;
+margin-bottom: 30px;
+}
+
+fieldset {
+
+padding: 20px 60px;
+
+}
